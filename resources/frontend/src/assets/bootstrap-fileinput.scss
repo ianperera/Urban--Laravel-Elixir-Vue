@@ -1,0 +1,16 @@
+.krajee-default .file-thumbnail-footer {
+  position: initial !important;
+}
+
+.krajee-default .file-drag-handle, .krajee-default .file-upload-indicator {
+  bottom: 0 !important;
+  left: 0 !important;
+}
+
+.krajee-default .file-thumb-progress {
+  top: initial !important;
+
+  .progress {
+    border-radius: 0px !important;
+  }
+}
